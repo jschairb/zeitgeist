@@ -3,14 +3,14 @@ layout: default
 ---
 
 <div id="gifs">
-  {% for map in site.data.mappings %}
-    <h3 id="{{ map[0] }}">{{ map[0] }}</h3>
+  {% for category in site.data.categories %}
+    <h3 id="{{ category[0] }}">{{ category[0] }}</h3>
 
     <ul class="images">
-      {% for file in map[1] %}
+      {% for id in category[1] %}
         <li>
-          <a href="{{ site.baseurl }}/gifs/{{ site.data.images[file].file }}">
-            {{ site.data.images[file].name }}
+          <a href="{{ site.baseurl }}/images/{{ site.data.images[id].file }}">
+            {{ site.data.images[id].name }}
           </a>
         </li>
       {% endfor %}

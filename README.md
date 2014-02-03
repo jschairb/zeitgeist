@@ -6,7 +6,7 @@ A curated collection of gifs to win friends and influence people.
 
 ## How It Works
 
-Add a new file to `/gifs`. Add a new image entry to `/_data/images.yaml` like so:
+Add a new file to `/images`. Add a new image entry to `/_data/images.yaml` like so:
 
 ```yaml
 cat-pix:
@@ -14,7 +14,7 @@ cat-pix:
   name: CRAZY CAT!!11!!!
 ```
 
-Add the image to map it under a category in `/_data/mappings.yaml`:
+Add the image to map it under a category in `/_data/categories.yaml`:
 
 ```yaml
 Animals:
@@ -22,3 +22,7 @@ Animals:
 ```
 
 That's it and that's all.
+
+## Image Classification
+
+I used [P. Shaver's Tree-Structure of Emotions](http://changingminds.org/explanations/emotions/basic%20emotions.htm) for classifications:
