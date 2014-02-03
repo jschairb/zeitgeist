@@ -6,11 +6,11 @@
 
 @font-face {
     font-family: 'Danzig';
-    src: url('/css/giant_gila-webfont.eot');
-    src: url('/css/giant_gila-webfont.eot?#iefix') format('eot'),
-         url('/css/giant_gila-webfont.woff') format('woff'),
-         url('/css/giant_gila-webfont.ttf') format('truetype'),
-         url('/css/giant_gila-webfont.svg#webfontPFzWzLCi') format('svg');
+    src: url('/zeitgeist/css/giant_gila-webfont.eot');
+    src: url('/zeitgeist/css/giant_gila-webfont.eot?#iefix') format('eot'),
+         url('/zeitgeist/css/giant_gila-webfont.woff') format('woff'),
+         url('/zeitgeist/css/giant_gila-webfont.ttf') format('truetype'),
+         url('/zeitgeist/css/giant_gila-webfont.svg#webfontPFzWzLCi') format('svg');
     font-weight: normal;
     font-style: normal;
 }
