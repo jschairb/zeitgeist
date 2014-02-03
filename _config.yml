@@ -1,3 +1,4 @@
+baseurl: /zeitgeist
 name: Zeitgeist
 markdown: redcarpet
 pygments: true
