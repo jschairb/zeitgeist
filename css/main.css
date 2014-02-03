@@ -4,6 +4,21 @@
 /*
 /*****************************************************************************/
 
+@font-face {
+    font-family: 'Danzig';
+    src: url('/css/giant_gila-webfont.eot');
+    src: url('/css/giant_gila-webfont.eot?#iefix') format('eot'),
+         url('/css/giant_gila-webfont.woff') format('woff'),
+         url('/css/giant_gila-webfont.ttf') format('truetype'),
+         url('/css/giant_gila-webfont.svg#webfontPFzWzLCi') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a span.danzig, a:visited span.danzig {
+    font-family: 'Danzig', Arial, sans-serif;
+}
+
 /* Global Reset */
 * {
   margin: 0;
