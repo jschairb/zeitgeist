@@ -39,7 +39,7 @@ a:visited { color: #a0a; }
   margin-bottom: 2em;
 }
 
-.posts li {
+li, .posts li {
   line-height: 1.75em;
 }
 
