@@ -4,9 +4,12 @@ daftpunk-dancing:
 fatality-scorpion:
   file: scorpion-fatality.gif
   name: Fatality - Scorpion
-leo-toast:
-  file: leo-toast.gif
-  name: Raise A Glass - Leo
 heston-nodding:
   file: heston-nodding.gif
   name: Heston Nodding
+leo-toast:
+  file: leo-toast.gif
+  name: Raise A Glass - Leo
+leo-woohoo:
+  file: leo-woohoo.gif
+  name: Woooo Hooooo!!!!
