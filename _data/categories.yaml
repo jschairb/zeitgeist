@@ -5,8 +5,14 @@ Cheerfulness:
 Contentment:
   - heston-nodding
   - leo-woohoo
+Disgust:
+  - jesse-disbelief
+Horror:
+  - jesse-disbelief
 Pride:
   - heston-nodding
+Shame:
+  - jesse-disbelief
 Suffering:
   - osu-fans-boo-hoo
 Torment:

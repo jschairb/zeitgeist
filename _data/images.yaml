@@ -7,6 +7,9 @@ fatality-scorpion:
 heston-nodding:
   file: heston-nodding.gif
   name: Heston Nodding
+jesse-disbelief:
+  file: jesse-disbelief.gif
+  name: Umm, Wut
 leo-toast:
   file: leo-toast.gif
   name: Raise A Glass - Leo
@@ -15,4 +18,4 @@ leo-woohoo:
   name: Woooo Hooooo!!!!
 osu-fans-boo-hoo:
   file: osu-fans-boo-hoo
-  name: Booo0 Hooooo!!!!
+  name: Boooo Hooooo!!!!
