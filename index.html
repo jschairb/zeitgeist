@@ -2,11 +2,18 @@
 layout: default
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div id="gifs">
+  {% for map in site.data.mappings %}
+    <h3>{{ map[0] }}</h3>
+
+    <ul class="images">
+      {% for file in map[1] %}
+        <li>
+          <a href="{{ site.baseurl }}gifs/{{ site.data.images[file].file }}">
+            {{ site.data.images[file].name }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
 </div>
