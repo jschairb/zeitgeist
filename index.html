@@ -4,7 +4,7 @@ layout: default
 
 <div id="gifs">
   {% for map in site.data.mappings %}
-    <h3>{{ map[0] }}</h3>
+    <h3 id="{{ map[0] }}">{{ map[0] }}</h3>
 
     <ul class="images">
       {% for file in map[1] %}
