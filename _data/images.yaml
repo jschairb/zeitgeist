@@ -4,6 +4,9 @@ daftpunk-dancing:
 fatality-scorpion:
   file: scorpion-fatality.gif
   name: Fatality - Scorpion
+he-ll-flip-ya:
+  file: he-ll-flip-ya.gif
+  name: He\'ll Flip Ya
 heston-nodding:
   file: heston-nodding.gif
   name: Heston Nodding
@@ -22,9 +25,9 @@ leo-woohoo:
 osu-fans-boohoo:
   file: osu-fans-boo-hoo.gif
   name: Boooo Hooooo!!!!
-he-ll-flip-ya:
-  file: he-ll-flip-ya.gif
-  name: He\'ll Flip Ya
+outkast-dancing:
+  file: outkast-dancing.gif
+  name: So Fresh, So Clean
 toddler-dancing:
   file: toddler-dancing.gif
   name: Get Down On It II
