@@ -134,7 +134,7 @@ a:visited { color: #a0a; }
   padding: 0 .4em;
 }
 
-.post ul, .post ol {
+ul, .post ul, .post ol {
   margin-left: 1.35em;
 }
 
