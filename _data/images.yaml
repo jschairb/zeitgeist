@@ -4,9 +4,12 @@ daftpunk-dancing:
 fatality-scorpion:
   file: scorpion-fatality.gif
   name: Fatality - Scorpion
+flaming-bear:
+  file: flaming-bear.gif
+  name: Flaming Bear Driving
 he-ll-flip-ya:
   file: he-ll-flip-ya.gif
-  name: He\'ll Flip Ya
+  name: "He'll Flip Ya"
 heston-nodding:
   file: heston-nodding.gif
   name: Heston Nodding
@@ -30,7 +33,7 @@ outkast-dancing:
   name: So Fresh, So Clean
 red-don-t-give-a-shit:
   file: red-don-t-give-a-shit.gif
-  name: I Don\'t Give A Shit
+  name: "I Don't Give A Shit"
 toddler-dancing:
   file: toddler-dancing.gif
   name: Get Down On It II

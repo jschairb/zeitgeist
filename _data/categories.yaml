@@ -13,6 +13,7 @@ Disgust:
 Frustration:
   - red-don-t-give-a-shit
 Horror:
+  - flaming-bear
   - jesse-disbelief
 Joy:
   - leo-dancing
@@ -20,6 +21,8 @@ Joy:
   - toddler-dancing
 Pride:
   - heston-nodding
+Rage:
+  - flaming-bear
 Sadness:
   - red-don-t-give-a-shit
 Shame:
@@ -35,6 +38,7 @@ Triumph:
   - fatality-scorpion
   - leo-woohoo
 Zest:
+  - flaming-bear
   - leo-dancing
   - leo-toast
   - leo-woohoo
