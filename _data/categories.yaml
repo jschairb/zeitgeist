@@ -13,6 +13,8 @@ Disgust:
   - robert-downey-nope
 Frustration:
   - red-don-t-give-a-shit
+Gloom:
+  - norbit-uncomfortable
 Horror:
   - flaming-bear
   - jesse-disbelief
@@ -28,11 +30,14 @@ Rage:
   - flaming-bear
   - robert-downey-nope
 Sadness:
+  - norbit-uncomfortable
   - red-don-t-give-a-shit
 Shame:
   - jesse-disbelief
+  - norbit-uncomfortable
   - robert-downey-nope
 Suffering:
+  - norbit-uncomfortable
   - osu-fans-boohoo
 Surprise:
   - jesse-disbelief
