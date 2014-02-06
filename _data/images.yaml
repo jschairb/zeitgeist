@@ -34,11 +34,14 @@ osu-fans-boohoo:
 outkast-dancing:
   file: outkast-dancing.gif
   name: So Fresh, So Clean
+playtime-s-over:
+  file: playtime-s-over.gif
+  name: "Playtime's Over"
 red-don-t-give-a-shit:
   file: red-don-t-give-a-shit.gif
   name: "I Don't Give A Shit"
 robert-downey-nope:
-  file: robert-downey-nope
+  file: robert-downey-nope.gif
   name: No, hmmmmm, nope.
 toddler-dancing:
   file: toddler-dancing.gif
