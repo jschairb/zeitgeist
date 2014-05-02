@@ -31,6 +31,9 @@ fatality-scorpion:
 flaming-bear:
   file: flaming-bear.gif
   name: Flaming Bear Driving
+get-your-shine-on:
+  file: get-your-shine-on.gif
+  name: "Get Your Shine On"
 he-ll-flip-ya:
   file: he-ll-flip-ya.gif
   name: "He'll Flip Ya"
