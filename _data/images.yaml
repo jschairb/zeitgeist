@@ -52,6 +52,9 @@ he-ll-flip-ya:
 heston-nodding:
   file: heston-nodding.gif
   name: Heston Nodding
+i-ve-had-it:
+  file: i-ve-had-it.gif
+  name: "I've Had It"
 jesse-disbelief:
   file: jesse-disbelief.gif
   name: Umm, Wut
@@ -109,6 +112,9 @@ villanova-fake-punt:
 we-aint-found:
   file: we-aint-found.gif
   name: "We Ain't Found Sh*t"
+what-are-they-even-doing:
+  file: what-are-they-even-doing.gif
+  name: "What Are They Even Doing?"
 wrestling-oops:
   file: wrestling-oops.gif
   name: "Ooops - wrassling' edition"
