@@ -88,6 +88,9 @@ osu-fans-boohoo:
 outkast-dancing:
   file: outkast-dancing.gif
   name: So Fresh, So Clean
+pick-two:
+  file: pick-two.jpg
+  name: Pick Two
 playtime-s-over:
   file: playtime-s-over.gif
   name: "Playtime's Over"

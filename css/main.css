@@ -173,3 +173,12 @@ ul, .post ul, .post ol {
 .post pre.terminal code {
   background-color: #333;
 }
+
+#imgPreviewWithStyles {
+    background: #222;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    padding: 15px;
+    z-index: 999;
+    border: none;
+}
