@@ -46,6 +46,9 @@ flaming-bear:
 get-your-shine-on:
   file: get-your-shine-on.gif
   name: "Get Your Shine On"
+golf-clap:
+  file: golf-clap.gif
+  name: "Golf clap? Golf clap."
 he-ll-flip-ya:
   file: he-ll-flip-ya.gif
   name: "He'll Flip Ya"
