@@ -64,6 +64,9 @@ i-m-sorry:
 i-ve-had-it:
   file: i-ve-had-it.gif
   name: "I've Had It"
+i-ve-rustled-the-jimmies:
+  file: i-ve-rustled-the-jimmies.png
+  name: "I've Rustled The Jimmies"
 jesse-disbelief:
   file: jesse-disbelief.gif
   name: Umm, Wut
