@@ -16,6 +16,9 @@ but-really-i-m-dying:
 connery-fist-pump:
   file: connery-fist-pump.gif
   name: Well done
+core-purge:
+  file: core-purge.gif
+  name: Core Purge
 daftpunk-dancing:
   file: daftpunk-dancing.gif
   name: Harder Better Faster Stronger
