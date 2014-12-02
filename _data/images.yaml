@@ -136,6 +136,9 @@ we-aint-found:
 what-are-they-even-doing:
   file: what-are-they-even-doing.gif
   name: "What Are They Even Doing?"
+worked-fine-in-dev:
+  file: worked-fine-in-dev.png
+  name: "Worked Fine In Dev"
 wrestling-oops:
   file: wrestling-oops.gif
   name: "Ooops - wrassling' edition"
