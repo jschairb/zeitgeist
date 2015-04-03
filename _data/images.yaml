@@ -70,6 +70,9 @@ hope-has-forsaken:
 i-m-sorry:
   file: i-m-sorry.jpg
   name: "I'm Sorry!"
+i-will-cut-you:
+  file: i-will-cut-you.gif
+  name: "I'll Cut You"
 i-ve-had-it:
   file: i-ve-had-it.gif
   name: "I've Had It"
