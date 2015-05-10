@@ -106,6 +106,9 @@ lesson-here-homie:
 mic-drop:
   file: mic-drop.gif
   name: Mic Drop
+mic-drop-2:
+  file: mic-drop-2.gif
+  name: Mic Drop 2
 michael-bluth-what-no:
   file: michael-bluth-what-no.gif
   name: "What, No"
