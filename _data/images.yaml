@@ -103,6 +103,9 @@ leo-woohoo:
 lesson-here-homie:
   file: lesson-here-homie.jpg
   name: Lesson here, homie
+mic-drop:
+  file: mic-drop.gif
+  name: Mic Drop
 michael-bluth-what-no:
   file: michael-bluth-what-no.gif
   name: "What, No"
