@@ -175,6 +175,9 @@ worked-fine-in-dev:
 wrestling-oops:
   file: wrestling-oops.gif
   name: "Ooops - wrassling' edition"
+wtf:
+  file: wtf.gif
+  name: WTF - Movie Edition
 wtf-montage:
   file: wtf-montage.gif
   name: "WTF Montage"
