@@ -151,6 +151,9 @@ spurs-dancing:
 spurs-dancing-2:
   file: spurs-dancing-2.gif
   name: Spurs Dancing 2
+thumbs-up:
+  file: thumbs-up.gif
+  name: Thumbs Up
 toddler-dancing:
   file: toddler-dancing.gif
   name: Get Down On It II
