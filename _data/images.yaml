@@ -70,6 +70,9 @@ fatality-scorpion:
 flaming-bear:
   file: flaming-bear.gif
   name: Flaming Bear Driving
+flaming-josh-bear:
+  file: flaming-josh-bear.gif
+  name: Flaming Bear - Josh Edition
 get-your-shine-on:
   file: get-your-shine-on.gif
   name: "Get Your Shine On"
