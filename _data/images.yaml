@@ -76,6 +76,9 @@ flaming-josh-bear:
 get-your-shine-on:
   file: get-your-shine-on.gif
   name: "Get Your Shine On"
+glowing-road:
+  file: glowing-road.gif
+  name: Glowing Road
 golf-clap:
   file: golf-clap.gif
   name: "Golf clap? Golf clap."
@@ -85,6 +88,9 @@ he-ll-flip-ya:
 heston-nodding:
   file: heston-nodding.gif
   name: Heston Nodding
+homer-walks-into-bar:
+  file: homer-walks-into-bar.gif
+  name: Home Walks Into Bar
 hope-has-forsaken:
   file: hope-has-forsaken.jpg
   name: "Hope Has Forsaken This Land"
@@ -94,6 +100,9 @@ its-happening-con:
 i-m-sorry:
   file: i-m-sorry.jpg
   name: "I'm Sorry!"
+im-so-messed-up-right-now:
+  file: im-so-messed-up-right-now.gif
+  name: "I'm So Messed Up Right Now"
 i-will-cut-you:
   file: i-will-cut-you.gif
   name: "I'll Cut You"
@@ -103,6 +112,9 @@ i-ve-had-it:
 i-ve-rustled-the-jimmies:
   file: i-ve-rustled-the-jimmies.png
   name: "I've Rustled The Jimmies"
+i-am-awaited:
+  file: i-am-awaited.gif
+  name: I Am Awaited
 jesse-disbelief:
   file: jesse-disbelief.gif
   name: Umm, Wut
@@ -139,18 +151,30 @@ mind-blown:
 norbit-uncomfortable:
   file: norbit-uncomfortable.gif
   name: "Um, I'm uncomfortable"
+ongoing-investigation:
+  file: ongoing-investigation.gif
+  name: "It's An Ongoing Investigation"
 osu-fans-boohoo:
   file: osu-fans-boo-hoo.gif
   name: Boooo Hooooo!!!!
 outkast-dancing:
   file: outkast-dancing.gif
   name: So Fresh, So Clean
+peanut-butter-and-jealous:
+  file: peanut-butter-and-jealous.gif
+  name: Peanut Butter And Jealous
 pick-two:
   file: pick-two.jpg
   name: Pick Two
 playtime-s-over:
   file: playtime-s-over.gif
   name: "Playtime's Over"
+point-taken:
+  file: point-taken.gif
+  name: "Point Taken"
+rabbit-season:
+  file: rabbit-season.gif
+  name: Rabbit Season
 rainbow-vomit:
   file: rainbow-vomit.gif
   name: "Everything's Coming Up Rainbows"
@@ -160,6 +184,15 @@ red-don-t-give-a-shit:
 riding-bomb:
   file: riding-bomb.gif
   name: Riding A Bomb
+right-in-the-griffin:
+  file: right-in-the-griffin.gif
+  name: Right In The Griffin
+right-in-the-mma:
+  file: right-in-the-mma.gif
+  name: Right In The MMA
+right-turn-clyde:
+  file: right-turn-clyde.gif
+  name: Right Turn, Clyde
 robert-downey-nope:
   file: robert-downey-nope.gif
   name: No, hmmmmm, nope.
@@ -169,6 +202,9 @@ spurs-dancing:
 spurs-dancing-2:
   file: spurs-dancing-2.gif
   name: Spurs Dancing 2
+this-is-fine:
+  file: this-is-fine.gif
+  name: This Is Fine
 thumbs-up:
   file: thumbs-up.gif
   name: Thumbs Up
@@ -181,9 +217,15 @@ tommie-lee-jones-don-t-care:
 villanova-fake-punt:
   file: villanova-fake-punt.gif
   name: "Villanova Fake Punt"
+wait-what:
+  file: wait-what.gif
+  name: "Wait, What?"
 we-aint-found:
   file: we-aint-found.gif
   name: "We Ain't Found Sh*t"
+well-uh-ah:
+  file: well-uh-ah.gif
+  name: "Well, Uh, Ah"
 what-are-they-even-doing:
   file: what-are-they-even-doing.gif
   name: "What Are They Even Doing?"
